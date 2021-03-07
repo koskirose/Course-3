@@ -10,10 +10,17 @@ Using data mining tools and different classifiers (e.g., k-nearest neighbor, dec
 Using the R statistical programming language
 
 Using the caret package for R
+
 Applying machine learning techniques to classification and regression problems
+
 Optimizing classifiers by adjusting and testing classifier parameters
+
 Applying cross-validation methods
+
 Assessing the predictive performance of classifiers by examining key error metrics
+
 Comparing and selecting different predictive models
+
 Applying predictive models to test sets
+
 Presenting data mining results to management.
