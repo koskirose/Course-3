@@ -2,7 +2,7 @@
 
 In this course, you will return to work with Danielle Sherman, the Chief Technology Officer at Blackwell Electronics. As you know, they have recently begun to leverage the data collected from online and in-store transactions to gain insight into their customers' purchasing behavior. Your job is to extend their application of data mining methods to develop predictive models and you'll be using R to accomplish this. In this course, you will use machine learning methods to predict which brand of computer products Blackwell customers prefer based on customer demographics collected from a marketing survey, and then you will go on to determine associations between products that be used to drive sales-oriented initiatives such as recommender systems like the ones used by Amazon and other eCommerce sites. Finally, you will present to management, explaining your insights and suggestions for data mining process improvements.
 
-# Skills Used
+# Skills Used for course 3
 
 Applying data mining in e-commerce (e.g. profitability prediction, customer segmentation, product selection strategy)
 
